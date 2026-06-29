@@ -1,0 +1,117 @@
+canonical_identifier: bkk:krp/KR3ep037/v1
+canonical_location: https://kanripo.org/bkk/KR3ep037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 龍砂八家醫案
+  identifiers:
+    krp: KR3ep037
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep037.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:5e7f60b9f1e21ad3e41c97de765a63b899ced25e379804180eb83fc5c2d26627'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:6ee065e96bc25e75abc381f2b75f1426ccea859a604bb56f14001ed6a9304311'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8312
+  label: 戚雲門先生方案字楚三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d3.h1s1
+    span:
+    - body
+    - 8312
+    - 11331
+  label: 王鍾岳先生方案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d4.h1s1
+    span:
+    - body
+    - 11331
+    - 11594
+  label: 貢一帆先生方案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d5.h1s1
+    span:
+    - body
+    - 11594
+    - 16704
+  label: 孫御千先生方案先生自記原本
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d6.h1s1
+    span:
+    - body
+    - 16704
+    - 17695
+  label: 戚金泉先生方案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d7.h1s1
+    span:
+    - body
+    - 17695
+    - 18936
+  label: 葉德培先生方案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d8.h1s1
+    span:
+    - body
+    - 18936
+    - 21679
+  label: 學山公方案諱宗岳字岱瞻
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d9.h1s1
+    span:
+    - body
+    - 21679
+    - 21849
+  label: 宇瞻公方案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep037_jc_000-d10.h1s1
+    span:
+    - body
+    - 21849
+    - 22347
+  label: 恆齋公方案公諱健字體乾
+  type: section
+  level: 1
+hash: sha256:228e112a8b323a26097d094b86360017f1e682df73c48e856c16497932141eb7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
