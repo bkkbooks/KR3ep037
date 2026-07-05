@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:5e7f60b9f1e21ad3e41c97de765a63b899ced25e379804180eb83fc5c2d26627'}
+  - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:ad43218357546ce66c00455f0b82d00fc71d1d89126456fc128b3b8495924acf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:6ee065e96bc25e75abc381f2b75f1426ccea859a604bb56f14001ed6a9304311'}
+  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:b5bc25888712760d7231e5875e05fe5b0a6f09b141a22d48a76f26c3641c8e96'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,7 +111,4 @@ table_of_contents:
   label: 恆齋公方案公諱健字體乾
   type: section
   level: 1
-hash: sha256:228e112a8b323a26097d094b86360017f1e682df73c48e856c16497932141eb7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:974c0557679ddee23051ff782a040243eaf0b27bda9f66928782b3ee3af68138
