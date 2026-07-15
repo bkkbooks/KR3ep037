@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep037/v1
 canonical_location: https://kanripo.org/bkk/KR3ep037/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 龍砂八家醫案
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:ad43218357546ce66c00455f0b82d00fc71d1d89126456fc128b3b8495924acf'}
+  - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:d70b9c99e35439a76911c72dd066df11af6d94f9b8eb002978335c4273c72f9c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:b5bc25888712760d7231e5875e05fe5b0a6f09b141a22d48a76f26c3641c8e96'}
+  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:436a6b9070d8406eba72dd11ea512e68e7faeb4080ad2bc7c2cca899b1f954b6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,7 @@ table_of_contents:
   label: 恆齋公方案公諱健字體乾
   type: section
   level: 1
-hash: sha256:974c0557679ddee23051ff782a040243eaf0b27bda9f66928782b3ee3af68138
+hash: sha256:ff35495e9d172d4ffc1eeea3569357753bc0046f8bf71a1e714cf9f6c2d885e1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
