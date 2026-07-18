@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep037_000-jc.yaml, hash: 'sha256:ad43218357546ce66c00455f0b82d00fc71d1d89126456fc128b3b8495924acf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep037_000-jc.markers.yaml, hash: 'sha256:ea87fa78104049607b6049e09d5aa0710dd4918ffe8017d7ffff030a33135d96'}
+  - {seq: 0, role: markers, filename: assets/KR3ep037_000-jc.markers.yaml, hash: 'sha256:82251a38431b0d098cd732963bf3e38e7b498ba066fbfe8ff81375b711b48846'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,4 +111,4 @@ table_of_contents:
   label: 恆齋公方案公諱健字體乾
   type: section
   level: 1
-hash: sha256:95a77f59ab1ffc161f9f1d9cc2aaeab764db82e98b8050bfaa0d67cc725346d3
+hash: sha256:599e7ba228bd614f4fef436e45eb7fff399322ae77a640d0f1c27f39cdd8568d

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep037_000.yaml, hash: 'sha256:d70b9c99e35439a76911c72dd066df11af6d94f9b8eb002978335c4273c72f9c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:436a6b9070d8406eba72dd11ea512e68e7faeb4080ad2bc7c2cca899b1f954b6'}
+  - {seq: 0, role: markers, filename: assets/KR3ep037_000.markers.yaml, hash: 'sha256:5267e797e5e76b49b8f755dda13c2cba46717105733f6ff0cc6ee61ea97174f6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -111,7 +111,7 @@ table_of_contents:
   label: 恆齋公方案公諱健字體乾
   type: section
   level: 1
-hash: sha256:ff35495e9d172d4ffc1eeea3569357753bc0046f8bf71a1e714cf9f6c2d885e1
+hash: sha256:3ccc45331d119d34e22a4382372a92e48cf720d972a0b13a0d0ee7fb5f48044f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
